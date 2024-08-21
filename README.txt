@@ -4,7 +4,7 @@ Made with the help of ChatGPT, for the purpose of removing metadata from many im
 
 Image_Cleaner.exe should work as a standalone, meaning you can just download the .exe, put it in a folder with images and open the .exe.
 
-It works by making a new folder (processed_images) and copying all the images within the folder that the .exe is in, without the metadata, into processed_images. Your original files will be untouched with metadata intact. Once they're done, it will create a text file "Images_Are_Ready" with how long it took.
+It works by making a new folder (processed_images) and copying all the images within the folder that the .exe is in, without the metadata, into processed_images. Your original files will be untouched with metadata intact. Once they're done, it will create a text file "YourImages_Are_Ready" with how long it took.
 
 Be careful as if there are any folders within the folder, it might bug out. (Haven't personally had issues, but I'd be careful). This will use your CPU a decent bit, to make the process faster.
 
