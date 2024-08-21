@@ -19,12 +19,12 @@ Install Dependencies:
 Open a terminal (Command Prompt on Windows Windows+R ->cmd, or just search).
 Type the following command and press Enter:
 
-> pip install pillow
+pip install pillow
 
 Run the Script:
 
-In the same terminal, navigate to the directory containing your .py file. (navigate to where the .py file is with >cd C:\your\location\here)
+In the same terminal, navigate to the directory containing your .py file. (navigate to where the .py file is with "cd C:\your\location\here")
 Then type the following command and press Enter:
 
-> python Image_Cleaner.py
+python Image_Cleaner.py
 
