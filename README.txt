@@ -1,4 +1,4 @@
-Image cleaner will remove metadata (including details and comments) off pngs, jpegs, jpgs.
+Image cleaner will remove metadata (including details and comments) off NovelAI PNGS and other.
 
 Made with the help of ChatGPT, for the purpose of removing metadata from many images at once.
 
